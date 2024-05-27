@@ -1,6 +1,6 @@
 # :dog: Paradigmas de Programación
 
-## Vamos a completar las funciones y los tests
+## Vamos a completar el código y los tests
 
 En clases vimos como crear perritos con programación funcional y programación orientada a objetos, y empezamos a hacer los tests, ahora es tu momento de continuar para acabar de hacer las funciones y los tests para tener una cobertura del 100%. 
 
